@@ -9,6 +9,7 @@ I've also made some modifications to the pins files to use filament dectector (n
 enjoy
 
 If you found this usefull, you can buy me a beer ;)
+
 https://www.paypal.me/MarlinCube
 
 
