@@ -1958,7 +1958,7 @@
   #define BLOCK_BUFFER_SIZE 32
 #else
   #define BLOCK_BUFFER_SIZE 16
-#endifx
+#endif
 
 // @section serial
 
