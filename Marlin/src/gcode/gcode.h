@@ -452,8 +452,6 @@ private:
 
   #if HAS_LEVELING
     #if ENABLED(G29_RETRY_AND_RECOVER)
-      static void event_probe_failure();
-      static void event_probe_recover();
       static void G29_with_retry();
       #define G29_TYPE bool
     #else
